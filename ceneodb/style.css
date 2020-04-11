@@ -1,0 +1,29 @@
+#Thebox{
+    display: box;
+    background-color: white;
+    border-style: solid;
+    border-color: burlywood;
+    border-width: 0.3em;
+    border-radius: 2%;
+    width: auto;
+    height: 245px;
+    padding-left: 3em;
+    margin-bottom: 1.5em;
+    padding-top: 1.5em;
+    
+}
+
+.pName{
+    font-size: larger;
+    font-weight: 600;
+    line-height: 1.4em;
+
+}
+.contentIMG{
+    float: left;
+    padding-right: 2em;
+
+}
+body{
+    background-color: bisque;
+}
